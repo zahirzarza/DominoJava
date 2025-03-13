@@ -4,8 +4,7 @@ package Juegos;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
- *@author Emilio Perez
+ *@author Diego
  *la clase "Juego" implementa las reglas y la lógica de un juego de dominó, permitiendo a dos jugadores competir y determinando al ganador al final del juego.
   */
 import java.util.ArrayList;
