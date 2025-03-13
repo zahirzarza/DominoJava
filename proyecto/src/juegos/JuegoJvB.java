@@ -7,8 +7,7 @@ import java.io.IOException;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-*@author Emilio Perez
+ *@author Diego
  *la clase "Juego1v1" es una variante del juego de dominó que permite a un jugador humano competir contra una inteligencia artificial (bot) y determinar al ganador al final del juego.
   */
 import java.util.ArrayList;
