@@ -3,8 +3,7 @@ package Jugadores;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-  *@author Emilio Perez
+ *@author Diego
  *
  *Esta clase se extiende de "Jugador" y aqui redifinimos los metodos en el que interactua el usuario,p por metodos donde todo lo haga el propio programa
   */
