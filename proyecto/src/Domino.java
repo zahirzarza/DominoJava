@@ -13,8 +13,7 @@ import Juegos.*;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-  *@author Emilio Perez
+ *@author Diego 
  *
  la clase "Domino" actúa como un controlador para iniciar y gestionar el juego de dominó con diferentes modos y configuraciones.
   */
