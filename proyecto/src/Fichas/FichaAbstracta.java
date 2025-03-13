@@ -2,8 +2,7 @@
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-  *@author Emilio Perez
+ *@author Diego
  *la clase abstracta "FichaAbstracta" define una estructura base para representar fichas de dominó, y las clases derivadas deben implementar los detalles específicos de cada tipo de ficha.
   */
 package Fichas;
