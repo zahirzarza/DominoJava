@@ -6,8 +6,7 @@ import java.io.IOException;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-  *@author Emilio Perez
+ *@author Diego
  *esta clase es una variante del juego de dominó que nos permite realizar el juego entre dos bots, asi determinar al ganador al final del juego.
  *
   */
