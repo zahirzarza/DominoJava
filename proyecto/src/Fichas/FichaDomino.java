@@ -6,8 +6,7 @@ import java.io.Serializable;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
- *@author Emilio Perez
+ *@author Diego
  * la clase "FichaDomino" representa una ficha de dominó con características específicas y métodos para manipular y evaluar la ficha en el contexto de un juego de dominó.
   */
 //Clase de la ficha
