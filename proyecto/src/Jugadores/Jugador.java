@@ -5,8 +5,7 @@ import java.io.Serializable;
  *
  *
  *@author Axel Zarza
- *@author Diego Varela
-*@author Emilio Perez
+ *@author Diego
  *
  *
  *ESta clase "Jugador" representa a un jugador controlado por el usuario en el juego de dominó. Los métodos de la clase permiten gestionar las fichas en la mano del jugador y tomar decisiones durante el juego.
